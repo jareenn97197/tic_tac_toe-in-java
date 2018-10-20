@@ -1,0 +1,5 @@
+1.Run this game in netbeans 
+
+2.If error persist.
+
+3.Then just copy this code and files  x,o,w,w2  in the save directory of your netbeans code !! mine is E:\Users\xyz_name\Documents\NetBeansProjects\tic_tac_toe\test
